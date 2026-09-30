@@ -1,0 +1,2 @@
+tid,acc,type,amount,time,reason
+T108,A200,DEBIT,abc,2026-02-10T15:45:00,Amount is not numeric
