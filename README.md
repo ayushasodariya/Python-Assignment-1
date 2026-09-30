@@ -28,29 +28,6 @@
 
 ---
 
-## Folder Structure
-
-```text
-Assignment 1
-│
-├── README.md
-│
-├── 12502080603002_Assignment1_Q1.py
-├── 12502080603002_Assignment1_Q2.py
-├── 12502080603002_Assignment1_Q3.py
-├── 12502080603002_Assignment1_Q4/
-├── 12502080603002_Assignment1_Q5.py
-├── 12502080603002_Assignment1_Q6.py
-├── 12502080603002_Assignment1_Q7.py
-├── 12502080603002_Assignment1_Q8/
-├── 12502080603002_Assignment1_Q9.py
-└── 12502080603002_Assignment1_Q10/
-```
-
-Q4, Q8 and Q10 have been kept as folders because they need supporting files.
-
----
-
 # What each question does
 
 ### Q1 - Campus Merit Analyzer
